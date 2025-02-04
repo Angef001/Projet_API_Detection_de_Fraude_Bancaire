@@ -1,0 +1,6 @@
+@Projet_API_Detection_de_Fraude_Bancaire_HostAddress = http://localhost:5027
+
+GET {{Projet_API_Detection_de_Fraude_Bancaire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
