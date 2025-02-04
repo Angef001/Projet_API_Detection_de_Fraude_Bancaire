@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projet_API_Detection_de_Fraude_Bancaire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1b71bb9f117f97cee579b0d2d029be2cb908444")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc33549786c2f2fbd650842cd0844b4ff80f44b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projet_API_Detection_de_Fraude_Bancaire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projet_API_Detection_de_Fraude_Bancaire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
